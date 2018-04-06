@@ -1,1 +1,1 @@
-Este es un archivo de texto del developer
+Este es un archivo de texto del developer. En esta rama se guardará el desarrollo del proyecto.
