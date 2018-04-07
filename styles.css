@@ -1,0 +1,30 @@
+body {
+    background-color: #e1e1d0;
+}
+li {
+    display: inline;
+}
+#content {
+    
+    background-color: white;
+    border-radius: 25px;
+}
+#content h2, p{
+    margin-left: 20px;
+}
+h2{
+    font-style: italic;
+    color: #fea500;
+}
+a{
+    color: #551A8B;
+    
+}
+#nav ul{
+    float:right;
+}
+#nav li {
+    border-radius: 25px;
+    background-color: #fea500;
+    margin-right: 20px;
+}
